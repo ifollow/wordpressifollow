@@ -1214,11 +1214,11 @@
 		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?page_id=1777</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p style="text-align: center;">[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/elegant/wp-content/uploads/2014/01/image-placerholder-slider.jpg" effect="fadeIn"]</p>
-[ut_service_icon_box color="#dddddd" hovercolor="#1ABC9C" icon="fa-tablet" headline="100% Responsive Design" width="third" class="add-bottom"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
+[ut_service_icon_box color="#dddddd" hovercolor="#452424" icon="fa-tablet" headline="100% Responsive Design" width="third" class="add-bottom"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
 
-[ut_service_icon_box color="#dddddd" hovercolor="#1ABC9C" icon="fa-adjust" headline="Unlimited Colors" width="third" class="add-bottom"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
+[ut_service_icon_box color="#dddddd" hovercolor="#452424" icon="fa-adjust" headline="Unlimited Colors" width="third" class="add-bottom"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
 
-[ut_service_icon_box color="#dddddd" hovercolor="#1ABC9C" icon="fa-trophy" headline="Free Support &amp; Updates" width="third" last="true" class="add-bottom"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]]]></content:encoded>
+[ut_service_icon_box color="#dddddd" hovercolor="#452424" icon="fa-trophy" headline="Free Support &amp; Updates" width="third" last="true" class="add-bottom"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1777</wp:post_id>
 		<wp:post_date>2013-10-20 13:42:18</wp:post_date>
@@ -1372,7 +1372,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>ut_overlay_color</wp:meta_key>
-			<wp:meta_value><![CDATA[#1ABC9C]]></wp:meta_value>
+			<wp:meta_value><![CDATA[#452424]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>ut_overlay_color_opacity</wp:meta_key>
@@ -1588,23 +1588,23 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?page_id=1936</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_service_column color="#1ABC9C" icon="fa-desktop" headline="Responsive Layout" shape="normal" width="third" last="false" class="add-bottom"] This theme looks great on any screen size or device. [/ut_service_column]
+		<content:encoded><![CDATA[[ut_service_column color="#452424" icon="fa-desktop" headline="Responsive Layout" shape="normal" width="third" last="false" class="add-bottom"] This theme looks great on any screen size or device. [/ut_service_column]
 
-[ut_service_column color="#1ABC9C" icon="fa-cogs" headline="Theme Options" shape="normal" width="third" last="false" class="add-bottom"] Clearly arranged built-in options panel. [/ut_service_column]
+[ut_service_column color="#452424" icon="fa-cogs" headline="Theme Options" shape="normal" width="third" last="false" class="add-bottom"] Clearly arranged built-in options panel. [/ut_service_column]
 
-[ut_service_column color="#1ABC9C" icon="fa-globe" headline="Localization Support" shape="normal" width="third" last="true" class="add-bottom"] Translate the theme into the language of your choice. [/ut_service_column] [ut_clear]
+[ut_service_column color="#452424" icon="fa-globe" headline="Localization Support" shape="normal" width="third" last="true" class="add-bottom"] Translate the theme into the language of your choice. [/ut_service_column] [ut_clear]
 
-[ut_service_column color="#1ABC9C" icon="fa-comments" headline="Fast &amp; Friendly Support" shape="normal" width="third" last="false" class="add-bottom"] With your purchase you get free lifetime support. [/ut_service_column]
+[ut_service_column color="#452424" icon="fa-comments" headline="Fast &amp; Friendly Support" shape="normal" width="third" last="false" class="add-bottom"] With your purchase you get free lifetime support. [/ut_service_column]
 
-[ut_service_column color="#1ABC9C" icon="fa-cloud-upload" headline="Logo Upload" shape="normal" width="third" last="false" class="add-bottom"] Choose and upload your own custom logo image. [/ut_service_column]
+[ut_service_column color="#452424" icon="fa-cloud-upload" headline="Logo Upload" shape="normal" width="third" last="false" class="add-bottom"] Choose and upload your own custom logo image. [/ut_service_column]
 
-[ut_service_column color="#1ABC9C" icon="fa-th" headline="Columns Shortcodes" shape="normal" width="third" last="true" class="add-bottom"] Easily create multi-column layouts in your content. [/ut_service_column] [ut_clear]
+[ut_service_column color="#452424" icon="fa-th" headline="Columns Shortcodes" shape="normal" width="third" last="true" class="add-bottom"] Easily create multi-column layouts in your content. [/ut_service_column] [ut_clear]
 
-[ut_service_column color="#1ABC9C" icon="fa-picture-o" headline="Section Backgrounds" shape="normal" width="third" last="false" class="add-bottom"] Set a custom background for individual project sections. [/ut_service_column]
+[ut_service_column color="#452424" icon="fa-picture-o" headline="Section Backgrounds" shape="normal" width="third" last="false" class="add-bottom"] Set a custom background for individual project sections. [/ut_service_column]
 
-[ut_service_column color="#1ABC9C" icon="fa-picture-o" headline="Section Backgrounds" shape="normal" width="third" last="false" class="add-bottom"] Set a custom background for individual project sections. [/ut_service_column]
+[ut_service_column color="#452424" icon="fa-picture-o" headline="Section Backgrounds" shape="normal" width="third" last="false" class="add-bottom"] Set a custom background for individual project sections. [/ut_service_column]
 
-[ut_service_column color="#1ABC9C" icon="fa-thumbs-o-up" headline="Browser Compatibility" shape="normal" width="third" last="true" class="add-bottom"] United Themes themes are tested in all modern browsers. [/ut_service_column]]]></content:encoded>
+[ut_service_column color="#452424" icon="fa-thumbs-o-up" headline="Browser Compatibility" shape="normal" width="third" last="true" class="add-bottom"] United Themes themes are tested in all modern browsers. [/ut_service_column]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1936</wp:post_id>
 		<wp:post_date>2013-10-22 21:09:19</wp:post_date>
@@ -1854,9 +1854,9 @@
 		<description></description>
 		<content:encoded><![CDATA[[ut_title_divider] Icon Boxes [/ut_title_divider]
 
-[ut_service_box color="#1ABC9C" background="#222222" opacity="1" icon="fa-code" headline="RETINA DISPLAY READY" width="half" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_box]
+[ut_service_box color="#452424" background="#222222" opacity="1" icon="fa-code" headline="RETINA DISPLAY READY" width="half" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_box]
 
-[ut_service_box color="#FFFFFF" background="#1ABC9C" opacity="1" icon="fa-cog" headline="RETINA DISPLAY READY" width="half" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_box]
+[ut_service_box color="#FFFFFF" background="#452424" opacity="1" icon="fa-cog" headline="RETINA DISPLAY READY" width="half" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_box]
 
 [ut_service_box color="#ffffff" background="#222222" opacity="1" icon="fa-camera" headline="RETINA DISPLAY READY" width="half" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_box]
 
@@ -1865,11 +1865,11 @@
 <div class="clear"></div>
 [ut_title_divider margin_top="30"] Service Columns Normal Horizontal [/ut_title_divider]
 
-[ut_service_column color="#ffffff" background="#1ABC9C" icon="fa-plane" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
+[ut_service_column color="#ffffff" background="#452424" icon="fa-plane" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
 
-[ut_service_column color="#ffffff" background="#1ABC9C" icon="fa-anchor" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
+[ut_service_column color="#ffffff" background="#452424" icon="fa-anchor" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
 
-[ut_service_column color="#ffffff" background="#1ABC9C" icon="fa-briefcase" headline="RETINA DISPLAY READY" shape="round" width="third" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
+[ut_service_column color="#ffffff" background="#452424" icon="fa-briefcase" headline="RETINA DISPLAY READY" shape="round" width="third" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
 
 [ut_service_column color="#ffffff" background="#222222" icon="fa-plane" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
 
@@ -1885,11 +1885,11 @@
 <div class="clear"></div>
 [ut_title_divider margin_top="30"] Service Columns Round Vertical [/ut_title_divider]
 
-[ut_service_column_vertical color="#ffffff" icon="fa-male" background="#1ABC9C" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column_vertical]
+[ut_service_column_vertical color="#ffffff" icon="fa-male" background="#452424" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column_vertical]
 
-[ut_service_column_vertical color="#ffffff" icon="fa-male" background="#1ABC9C" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column_vertical]
+[ut_service_column_vertical color="#ffffff" icon="fa-male" background="#452424" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column_vertical]
 
-[ut_service_column_vertical color="#ffffff" icon="fa-female" background="#1ABC9C" headline="RETINA DISPLAY READY" shape="round" width="third" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column_vertical]
+[ut_service_column_vertical color="#ffffff" icon="fa-female" background="#452424" headline="RETINA DISPLAY READY" shape="round" width="third" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column_vertical]
 
 [ut_service_column_vertical color="#ffffff" icon="fa-male" background="#222222" headline="RETINA DISPLAY READY" shape="round" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column_vertical]
 
@@ -1906,11 +1906,11 @@
 <div class="clear"></div>
 [ut_title_divider margin_top="30"] Service Columns Vertical (Round Icons) [/ut_title_divider]
 
-[ut_service_column color="#1ABC9C" icon="fa-plane" headline="RETINA DISPLAY READY" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
+[ut_service_column color="#452424" icon="fa-plane" headline="RETINA DISPLAY READY" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
 
-[ut_service_column color="#1ABC9C" icon="fa-anchor" headline="RETINA DISPLAY READY" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
+[ut_service_column color="#452424" icon="fa-anchor" headline="RETINA DISPLAY READY" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
 
-[ut_service_column color="#1ABC9C" icon="fa-briefcase" headline="RETINA DISPLAY READY" width="third" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
+[ut_service_column color="#452424" icon="fa-briefcase" headline="RETINA DISPLAY READY" width="third" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
 
 [ut_service_column color="#222222" icon="fa-plane" headline="RETINA DISPLAY READY" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. [/ut_service_column]
 
@@ -1927,11 +1927,11 @@
 <div class="clear"></div>
 [ut_title_divider margin_top="30"] Service Columns Vertical [/ut_title_divider]
 
-[ut_service_column_vertical color="#1ABC9C" icon="fa-heart" headline="RETINA DISPLAY READY" shape="normal" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_column_vertical]
+[ut_service_column_vertical color="#452424" icon="fa-heart" headline="RETINA DISPLAY READY" shape="normal" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_column_vertical]
 
-[ut_service_column_vertical color="#1ABC9C" icon="fa-twitter" headline="RETINA DISPLAY READY" shape="normal" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_column_vertical]
+[ut_service_column_vertical color="#452424" icon="fa-twitter" headline="RETINA DISPLAY READY" shape="normal" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_column_vertical]
 
-[ut_service_column_vertical color="#1ABC9C" icon="fa fa-smile-o" headline="RETINA DISPLAY READY" shape="normal" width="third" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_column_vertical]
+[ut_service_column_vertical color="#452424" icon="fa fa-smile-o" headline="RETINA DISPLAY READY" shape="normal" width="third" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_column_vertical]
 
 [ut_service_column_vertical color="#222222" icon="fa-heart" headline="RETINA DISPLAY READY" shape="normal" width="third" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [/ut_service_column_vertical]
 
@@ -2148,7 +2148,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>ut_section_background_color</wp:meta_key>
-			<wp:meta_value><![CDATA[#1ABC9C]]></wp:meta_value>
+			<wp:meta_value><![CDATA[#452424]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>ut_parallax_section</wp:meta_key>
@@ -2232,7 +2232,7 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 [ut_title_divider] Tabs [/ut_title_divider]
 
 [ut_tabgroup] [ut_tab title="Web Development" id="t1"]
-<h3>[ut_rotate_words] Web <span style="color: #1ABC9C;">Development</span>, Wed <span style="color: #1ABC9C;">Design</span>, Responsive <span style="color: #1ABC9C;">Design</span>, Retina <span style="color: #1ABC9C;">Ready </span>[/ut_rotate_words]</h3>
+<h3>[ut_rotate_words] Web <span style="color: #452424;">Development</span>, Wed <span style="color: #452424;">Design</span>, Responsive <span style="color: #452424;">Design</span>, Retina <span style="color: #452424;">Ready </span>[/ut_rotate_words]</h3>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 <blockquote>Passion leads to design, design leads to performance, performance leads to success!
 <cite>United Themes – Theme Development Brooklyn</cite></blockquote>
@@ -2293,9 +2293,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 [ut_title_divider margin_top="30"] Testimonials [/ut_title_divider][ut_quote_rotator width="fullwidth" last="false"] [ut_quote author="Wendy" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/elegant/wp-content/uploads/2014/01/member.jpg"] At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. [/ut_quote] [ut_quote author="Carlos" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/elegant/wp-content/uploads/2014/01/member.jpg"] At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. [/ut_quote] [/ut_quote_rotator]
 
 [ut_title_divider margin_top="30"] Word Rotator [/ut_title_divider]
-<h3>[ut_rotate_words timer="2500"] WE ARE <span style="color: #1ABC9C;">BROOKLYN</span>, WE ARE <span style="color: #1ABC9C;">AWESOME</span>, WE ARE <span style="color: #1ABC9C;">UNITED THEMES</span> [/ut_rotate_words]</h3>
+<h3>[ut_rotate_words timer="2500"] WE ARE <span style="color: #452424;">BROOKLYN</span>, WE ARE <span style="color: #452424;">AWESOME</span>, WE ARE <span style="color: #452424;">UNITED THEMES</span> [/ut_rotate_words]</h3>
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-<h3>WE ARE [ut_rotate_words timer="2500"] <span style="color: #1ABC9C;">BROOKLYN</span>, <span style="color: #1ABC9C;">AWESOME</span>, <span style="color: #1ABC9C;">SUCESS</span> [/ut_rotate_words]</h3>
+<h3>WE ARE [ut_rotate_words timer="2500"] <span style="color: #452424;">BROOKLYN</span>, <span style="color: #452424;">AWESOME</span>, <span style="color: #452424;">SUCESS</span> [/ut_rotate_words]</h3>
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 [ut_title_divider margin_top="50"] Available Retina Icons [/ut_title_divider]
@@ -2405,9 +2405,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 [ut_title_divider margin_top="50"] HIGHLIGHTS [/ut_title_divider]
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. [ut_highlight color="#ffffff" bgcolor="#1ABC9C"] Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat  [/ut_highlight] vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. [ut_highlight color="#ffffff" bgcolor="#452424"] Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat  [/ut_highlight] vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, [ut_highlight color="#ffffff" bgcolor="#222222"] sed diam nonummy nibh euismod [/ut_highlight] tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta [ut_highlight color="#222222" bgcolor="#1ABC9C"] nobis eleifend option congue nihil [/ut_highlight] imperdiet doming id quod mazim placerat facer possim assum.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, [ut_highlight color="#ffffff" bgcolor="#222222"] sed diam nonummy nibh euismod [/ut_highlight] tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta [ut_highlight color="#222222" bgcolor="#452424"] nobis eleifend option congue nihil [/ut_highlight] imperdiet doming id quod mazim placerat facer possim assum.
 
 [ut_title_divider  margin_top="50"] DROPCAPS [/ut_title_divider]
 
@@ -2747,31 +2747,31 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 [ut_count_up color="#ffffff" desccolor="#ffffff" to="4" background="#222222" opacity="1" width="fourth" last="true"] Winning Awards [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="1270" background="#ffffff" opacity="1" width="fourth" last="false"] Twinkies Eaten [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="1270" background="#ffffff" opacity="1" width="fourth" last="false"] Twinkies Eaten [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="75" background="#ffffff" opacity="1" width="fourth" last="false"] Clients Worked With [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="75" background="#ffffff" opacity="1" width="fourth" last="false"] Clients Worked With [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="90" background="#ffffff" opacity="1" width="fourth" last="false"] Completed Projects [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="90" background="#ffffff" opacity="1" width="fourth" last="false"] Completed Projects [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="4" background="#ffffff" opacity="1" width="fourth" last="true"] Winning Awards [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="4" background="#ffffff" opacity="1" width="fourth" last="true"] Winning Awards [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="1270" background="#ffffff" opacity="1"  icon="fa-cutlery" width="fourth" last="false"] Twinkies Eaten [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="1270" background="#ffffff" opacity="1"  icon="fa-cutlery" width="fourth" last="false"] Twinkies Eaten [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="75" background="#ffffff" opacity="1" icon="fa-users" width="fourth" last="false"] Clients Worked With [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="75" background="#ffffff" opacity="1" icon="fa-users" width="fourth" last="false"] Clients Worked With [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="90" background="#ffffff" opacity="1" icon="fa-thumbs-up" width="fourth" last="false"] Completed Projects [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="90" background="#ffffff" opacity="1" icon="fa-thumbs-up" width="fourth" last="false"] Completed Projects [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="4" background="#ffffff" opacity="1" icon="fa-trophy" width="fourth" last="true"] Winning Awards [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="4" background="#ffffff" opacity="1" icon="fa-trophy" width="fourth" last="true"] Winning Awards [/ut_count_up]
 
 [ut_clear]
 
 [ut_title_divider margin_top="30"] Service Icons [/ut_title_divider]
 
-[ut_service_icon_box color="#CCC" hovercolor="#1ABC9C" icon="fa-adjust" headline="Unlimited Style Options" width="third"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
+[ut_service_icon_box color="#CCC" hovercolor="#452424" icon="fa-adjust" headline="Unlimited Style Options" width="third"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
 
-[ut_service_icon_box color="#CCC" hovercolor="#1ABC9C" icon="fa-trophy" headline="Lifetime Updates" width="third"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
+[ut_service_icon_box color="#CCC" hovercolor="#452424" icon="fa-trophy" headline="Lifetime Updates" width="third"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
 
-[ut_service_icon_box color="#CCC" hovercolor="#1ABC9C" icon="fa-tasks" headline="Customer Support" width="third" last="true"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
+[ut_service_icon_box color="#CCC" hovercolor="#452424" icon="fa-tasks" headline="Customer Support" width="third" last="true"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_icon_box]
 
 [ut_clear]
 
@@ -2994,13 +2994,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 [ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/elegant/wp-content/uploads/2014/01/image-placerholder-slider.jpg" effect="slideInRight"]
 
 [/ut_one_half_last]
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="1270" background="#F9F9F9" opacity="1" icon="fa-cutlery" width="fourth" last="false"] Twinkies Eaten [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="1270" background="#F9F9F9" opacity="1" icon="fa-cutlery" width="fourth" last="false"] Twinkies Eaten [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="75" background="#F9F9F9" opacity="1" icon="fa-users" width="fourth" last="false"] Clients Worked With [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="75" background="#F9F9F9" opacity="1" icon="fa-users" width="fourth" last="false"] Clients Worked With [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="90" background="#F9F9F9" opacity="1" icon="fa-thumbs-up" width="fourth" last="false"] Completed Projects [/ut_count_up]
+[ut_count_up color="#452424" desccolor="#222222" to="90" background="#F9F9F9" opacity="1" icon="fa-thumbs-up" width="fourth" last="false"] Completed Projects [/ut_count_up]
 
-[ut_count_up color="#1ABC9C" desccolor="#222222" to="4" background="#F9F9F9" opacity="1" icon="fa-trophy" width="fourth" last="true"] Winning Awards [/ut_count_up]]]></content:encoded>
+[ut_count_up color="#452424" desccolor="#222222" to="4" background="#F9F9F9" opacity="1" icon="fa-trophy" width="fourth" last="true"] Winning Awards [/ut_count_up]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3017</wp:post_id>
 		<wp:post_date>2013-11-21 13:25:00</wp:post_date>
@@ -3761,7 +3761,7 @@ This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.co
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>ut_portfolio_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:10:"text_color";s:7:"#ffffff";s:11:"hover_color";s:7:"#1ABC9C";s:13:"hover_opacity";s:3:"0.8";s:11:"image_style";s:9:"ut-square";s:14:"posts_per_page";s:1:"8";s:14:"optional_class";s:0:"";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:10:"text_color";s:7:"#ffffff";s:11:"hover_color";s:7:"#452424";s:13:"hover_opacity";s:3:"0.8";s:11:"image_style";s:9:"ut-square";s:14:"posts_per_page";s:1:"8";s:14:"optional_class";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>ut_showcase_options</wp:meta_key>

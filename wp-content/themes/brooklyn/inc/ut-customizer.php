@@ -50,7 +50,7 @@ if( !function_exists('unitedthemes_customize_register') ) {
 							
 							$('#<?php echo strtolower($this->label); ?>').wpColorPicker({
 	
-								palettes: ['#9b59b6' , '#3498db' , '#FF6E00', '#7f8c8d' , '#2ecc71' , '#2c3e50' , '#d35400' , '#c0392b' , '#1abc9c' , '#f1c40f'],
+								palettes: ['#9b59b6' , '#3498db' , '#FF6E00', '#7f8c8d' , '#2ecc71' , '#2c3e50' , '#d35400' , '#c0392b' , '#452424' , '#f1c40f'],
 								change: function(event, ui){
 									
 									$('#<?php echo strtolower($this->label); ?>').attr('value', ui.color.toString() );

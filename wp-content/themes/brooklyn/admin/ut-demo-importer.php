@@ -553,7 +553,7 @@ if ( !function_exists( 'ut_demo_importer' ) ) {
 				$color_to_demo = array(
 					'demo_one'	    => '#F1C40F', 
 					'demo_two'      => '#FF6E00', 
-					'demo_three'    => '#1ABC9C', 
+					'demo_three'    => '#452424', 
 					'demo_four'	    => '#FF6E00', 
 					'demo_five'	    => '#EB005D',
 					'demo_six'	    => '#FDA527',
