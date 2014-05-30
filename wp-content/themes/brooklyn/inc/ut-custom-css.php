@@ -839,7 +839,7 @@ if ( !function_exists( 'unitedthemes_custom_css' ) ) {
 			}
 			
 			if( !empty($ut_hero_overlay_color) ) {
-				$css.= '.hero .parallax-overlay { background-color: rgba(' . ut_hex_to_rgb( $ut_hero_overlay_color ) . ' , ' . $ut_hero_overlay_color_opacity . ' ); }'. "\n";
+				$css.= '.hero .parallax-overlay { background-color: #000000; }'. "\n";
 			}
 			
 			
