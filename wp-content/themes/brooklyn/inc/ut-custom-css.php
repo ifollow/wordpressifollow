@@ -887,7 +887,7 @@ if ( !function_exists( 'unitedthemes_custom_css' ) ) {
 				
 				if( !empty( $ut_csection_header_expertise_slogan_color ) ) {
 					
-					$css.='#contact-section .lead { color: ' . $ut_csection_header_expertise_slogan_color . ' }'. "\n";
+					$css.='#contact-section .lead { color: #FFFFFF; }'. "\n";
 					
 				}
 								
