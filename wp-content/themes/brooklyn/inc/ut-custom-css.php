@@ -880,7 +880,7 @@ if ( !function_exists( 'unitedthemes_custom_css' ) ) {
 				
 				if( !empty( $ut_csection_header_slogan_color ) ) {
 					
-					$css.='#contact-section .parallax-title { color: ' . $ut_csection_header_slogan_color . '}'. "\n";
+					$css.='#contact-section .parallax-title { color: #FFFFFF;}'. "\n";
 					$css.= create_section_headline_style('#contact-section' , $ut_csection_header_style , $ut_csection_header_slogan_color);
 					
 				}
