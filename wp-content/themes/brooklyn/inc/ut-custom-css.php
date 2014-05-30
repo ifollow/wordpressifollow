@@ -142,7 +142,7 @@ if( !function_exists('create_section_headline_style') ) :
 				'.$div.' .pt-style-6 .page-title:after, 
 				'.$div.' .pt-style-6 .parallax-title:after, 
 				'.$div.' .pt-style-6 .section-title:after {
-					border-bottom: 1px dotted ' . $color . ';
+					border-bottom: 1px dotted #FFFFFF;
 				}';
 			
 			break;
