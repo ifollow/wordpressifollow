@@ -1324,8 +1324,8 @@ if ( !function_exists( 'unitedthemes_custom_css' ) ) {
 							if( !empty($ut_section_title_color) ) {
 								
 								// add to CSS
-								$css.= '#' . $css_query->post->post_name . ' .parallax-title { color: ' . $ut_section_title_color . '; }'. "\n";
-								$css.= '#' . $css_query->post->post_name . ' .section-title { color: ' . $ut_section_title_color . '; }'. "\n";
+								$css.= '#' . $css_query->post->post_name . ' .parallax-title { color: #452424; }'. "\n";
+								$css.= '#' . $css_query->post->post_name . ' .section-title { color: #452424; }'. "\n";
 								
 
 								$css.= create_section_headline_style( '#'.$css_query->post->post_name , $ut_section_header_style , $ut_section_title_color );
