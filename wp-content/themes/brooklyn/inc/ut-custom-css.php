@@ -1001,8 +1001,8 @@ if ( !function_exists( 'unitedthemes_custom_css' ) ) {
 				$ut_left_csection_content_area_opacity = ot_get_option('ut_left_csection_content_area_opacity' , '0.8' );
 				$ut_right_csection_content_area_opacity = ot_get_option('ut_right_csection_content_area_opacity', '0.8' );
 				
-					$css .= !empty( $ut_left_csection_content_area_color )  ? '#contact-section .ut-left-footer-area { background: rgb(' . ut_hex_to_rgb( $ut_left_csection_content_area_color ) . ',' . $ut_left_csection_content_area_opacity . '); }'. "\n" : '';
-					$css .= !empty( $ut_left_csection_content_area_color )  ? '#contact-section .ut-left-footer-area { background: rgba(' . ut_hex_to_rgb( $ut_left_csection_content_area_color ) . ',' . $ut_left_csection_content_area_opacity . '); }'. "\n" : '';
+					$css .= !empty( $ut_left_csection_content_area_color )  ? '#contact-section .ut-left-footer-area { background: #000000; }'. "\n" : '';
+					$css .= !empty( $ut_left_csection_content_area_color )  ? '#contact-section .ut-left-footer-area { background: #000000; }'. "\n" : '';
 					$css .= !empty( $ut_right_csection_content_area_color ) ? '#contact-section .ut-right-footer-area { background: rgb(' . ut_hex_to_rgb( $ut_right_csection_content_area_color ) . ',' . $ut_right_csection_content_area_opacity . '); }'. "\n" : '';
 					$css .= !empty( $ut_right_csection_content_area_color ) ? '#contact-section .ut-right-footer-area { background: rgba(' . ut_hex_to_rgb( $ut_right_csection_content_area_color ) . ',' . $ut_right_csection_content_area_opacity . '); }'. "\n" : '';
 				
