@@ -1349,8 +1349,8 @@ if ( !function_exists( 'unitedthemes_custom_css' ) ) {
 
 								
 								// add to CSS
-								$css.= '#' . $css_query->post->post_name . ' .parallax-overlay { background-color: rgb(' . ut_hex_to_rgb($ut_overlay_color) . '); }'. "\n";
-								$css.= '#' . $css_query->post->post_name . ' .parallax-overlay { background-color: rgba(' . ut_hex_to_rgb($ut_overlay_color) . ' , ' . $ut_overlay_color_opacity . ' ); }'. "\n";
+								$css.= '#' . $css_query->post->post_name . ' .parallax-overlay { background-color: #452424;}'. "\n";
+								$css.= '#' . $css_query->post->post_name . ' .parallax-overlay { background-color: #452424; }'. "\n";
 								
 							}
 														
