@@ -719,6 +719,7 @@ p.lead, .taxonomy-description {
 
 .home section {
 	overflow:hidden;
+	border-bottom: 6px solid #452424;
 }
 .ut-offset-anchor {
 	width:0px;
@@ -925,8 +926,8 @@ a.ut-flex-control.next:hover { background:rgba(255, 255, 255, 0.15); color:#FFFF
 }
 .ut-hero-style-6 .hero-title {
 	padding:30px;
-	border:1px solid rgb(255, 255, 255);
-	border:1px solid rgba(255, 255, 255, 0.15);
+	border:1px solid #452424;
+	border:1px solid #452424;
 }
 .ut-hero-style-4 .hero-description,
 .ut-hero-style-6 .hero-description,
@@ -979,7 +980,7 @@ a.ut-flex-control.next:hover { background:rgba(255, 255, 255, 0.15); color:#FFFF
 }
 .hero-btn:hover {
 	color:#FFFFFF;
-	background:rgba(255, 255, 255, 0.15);
+	background:#452424;
 }
 .ut-hero-style-5 .hero-btn {
 	border:1px solid rgb(255, 255, 255);
