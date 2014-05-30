@@ -1011,8 +1011,8 @@ if ( !function_exists( 'unitedthemes_custom_css' ) ) {
 				$ut_csection_overlay_color = ot_get_option('ut_csection_overlay_color');
 				$ut_csection_overlay_opacity = ot_get_option('ut_csection_overlay_opacity' , '0.8');
 				
-					$css .= !empty( $ut_csection_overlay_color )  ? '#contact-section .parallax-overlay { background: rgb(' . ut_hex_to_rgb( $ut_csection_overlay_color ) . ',' . $ut_csection_overlay_opacity . '); }'. "\n" : '';
-					$css .= !empty( $ut_csection_overlay_color )  ? '#contact-section .parallax-overlay { background: rgba(' . ut_hex_to_rgb( $ut_csection_overlay_color ) . ',' . $ut_csection_overlay_opacity . '); }'. "\n" : '';
+					$css .= !empty( $ut_csection_overlay_color )  ? '#contact-section .parallax-overlay { background: #000000; }'. "\n" : '';
+					$css .= !empty( $ut_csection_overlay_color )  ? '#contact-section .parallax-overlay { background: #000000; }'. "\n" : '';
 				
 				/* contact section section padding */
 				$ut_csection_padding_top = ot_get_option('ut_csection_padding_top');
